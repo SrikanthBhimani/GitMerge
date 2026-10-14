@@ -1,0 +1,1 @@
+This repo is creating to verify difference between merge and rebase
