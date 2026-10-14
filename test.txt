@@ -1,2 +1,4 @@
 Added one more line to test file 
 This repo is creating to verify difference between merge and rebase also execute some of the task in ansible playbook
+Download rpm
+install rpm
